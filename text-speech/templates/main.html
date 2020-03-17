@@ -1,0 +1,59 @@
+{% extends 'bootstrap/base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block title %}
+    Text to Speech Application
+{% endblock %}
+
+{% block content %}
+
+    <style>
+        .label-txt {
+            font-size: 22px;
+            font-weight: bold;
+            color: #4285f4;
+        }
+
+        .lang-label {
+            font-size: 16px;
+            font-weight: bold;
+            color: #0f9d58;
+            padding-right: 5px;
+        }
+
+        img {
+            padding: 0;
+            display: block;
+            margin: 0 auto;
+            max-height: 80%;
+            max-width: 80%;
+        }
+    </style>
+
+    <div class="container">
+        <h1 style="text-align: center;">
+            <span style="color: #4285f4;">Google <span style="color: #db4437;">Cloud</span> <span style="color: #f4b400;">Run</span>: <br />
+            <span style="color: #0f9d58;">Text to Speech Application<br /></span>
+            </span>
+        </h1>
+
+        <div class="row">
+            <div class="col-md-16">
+                <form action="" method="post" novalidate>
+                    {{ form.hidden_tag() }}
+                    <div class="form-group">
+                        <br><br>
+                        {{ form.text_field.label(class_='label-txt') }}<br>
+                        {{ form.text_field(rows=10, cols=180, class_='form-control') }}<br>
+                        {{ form.language_options.label(class_='lang-label') }} {{ form.language_options(formnovalidate=True) }}<br>
+                        {{ form.gender_options.label(class_='lang-label') }} {{ form.gender_options(formnovalidate=True) }}
+                    </div>
+                    {{ form.submit(class_='btn btn-default') }}
+                </form>
+            </div>
+        </div>
+    </div>>
+
+
+    <img src="http://ekababisong.org/assets/text-to-speech-cloud-run/text-to-speech-cloud-run.svg" alt="Google Text to Speech with Google Cloud Run">
+{% endblock %}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46453ad-8428-4b67-a973-0d9e7b7d0f15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/text-speech/ForwardTacotron" />
+  </component>
+  <component name="ProjectId" id="1Z4KZAQdqZlvkeP3IT6TU1re9fD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/text-speech" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text-speech" />
+      <recent name="$PROJECT_DIR$/text-speech/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text-speech" />
+      <recent name="$PROJECT_DIR$/app/app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46453ad-8428-4b67-a973-0d9e7b7d0f15" name="Default Changelist" comment="" />
+      <created>1584092978816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584092978816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="979" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584181870471">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state x="979" y="326" key="#com.intellij.fileTypes.FileTypeChooser/51.23.1629.1027@51.23.1629.1027" timestamp="1584181870471" />
+    <state x="416" y="155" key="SettingsEditor" timestamp="1584181282480">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state x="416" y="155" key="SettingsEditor/51.23.1629.1027@51.23.1629.1027" timestamp="1584181282480" />
+    <state x="510" y="125" width="1057" height="787" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584282093984">
+      <screen x="53" y="23" width="1627" height="1027" />
+    </state>
+    <state x="510" y="125" width="1057" height="787" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/53.23.1627.1027@53.23.1627.1027" timestamp="1584282093984" />
+  </component>
+</project>
