@@ -1,3 +1,4 @@
-./text-speech/EkabaSandbox-6a786234f016.json
+/text-speech/EkabaSandbox-6a786234f016.json
+/text-speech/__pycache__
 .idea
-./text-speech/__pycache__
+.DS_Store
