@@ -1,7 +1,7 @@
 # Cloud Run: Google Cloud Text to Speech API
 
 <p align="left">
-    <img src="img/cloud-run.png" align="middle" alt="Cloud Run."/>
+    <img src="http://ekababisong.org/assets/text-to-speech-cloud-run/text-to-speech-cloud-run.svg" align="middle" alt="Google Text to Speech with Google Cloud Run">
 </p>
 
 <br>
