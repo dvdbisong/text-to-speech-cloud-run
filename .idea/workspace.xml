@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a46453ad-8428-4b67-a973-0d9e7b7d0f15" name="Default Changelist" comment="" />
+    <list default="true" id="a46453ad-8428-4b67-a973-0d9e7b7d0f15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/app-cloud-run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/app-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloud-build-building.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cloud-run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/edit-permissions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gcp-app-py.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gcp-code-editor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pandas-profile.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/text-speech/ForwardTacotron" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z4KZAQdqZlvkeP3IT6TU1re9fD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +41,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/text-speech" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,10 +71,11 @@
       <screen x="51" y="23" width="1629" height="1027" />
     </state>
     <state x="979" y="326" key="#com.intellij.fileTypes.FileTypeChooser/51.23.1629.1027@51.23.1629.1027" timestamp="1584181870471" />
-    <state x="416" y="155" key="SettingsEditor" timestamp="1584181282480">
-      <screen x="51" y="23" width="1629" height="1027" />
+    <state x="419" y="155" key="SettingsEditor" timestamp="1584463630513">
+      <screen x="55" y="23" width="1625" height="1027" />
     </state>
     <state x="416" y="155" key="SettingsEditor/51.23.1629.1027@51.23.1629.1027" timestamp="1584181282480" />
+    <state x="419" y="155" key="SettingsEditor/55.23.1625.1027@55.23.1625.1027" timestamp="1584463630513" />
     <state x="510" y="125" width="1057" height="787" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584282093984">
       <screen x="53" y="23" width="1627" height="1027" />
     </state>
