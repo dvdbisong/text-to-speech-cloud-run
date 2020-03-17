@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a46453ad-8428-4b67-a973-0d9e7b7d0f15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/app-cloud-run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/app-home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cloud-build-building.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cloud-run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/edit-permissions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gcp-app-py.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gcp-code-editor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pandas-profile.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
