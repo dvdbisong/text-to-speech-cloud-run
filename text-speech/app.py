@@ -21,6 +21,8 @@ def home():
 
     # Instantiates a client
     client = texttospeech.TextToSpeechClient()
+
+    # Get the language list
     voices = client.list_voices()
     voice_codes_list = list(dict.fromkeys([voice.language_codes[0] for voice in voices.voices]))
     language_list = [(ind + 1, voice) for ind, voice in enumerate(voice_codes_list)]
@@ -33,7 +35,7 @@ def home():
                                'language': lang,
                                'gender': gender})
         return redirect(url_for('.translate', messages=messages))
-    return render_template('main.html', title='Sign In', form=form)
+    return render_template('main.html', form=form)
 
 
 @app.route('/translate')
